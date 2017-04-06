@@ -1,0 +1,29 @@
+{
+  "name": "node_web_scraper",
+  "version": "1.0.0",
+  "description": "Search website and return data",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node scraper.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acraven77/project_6.git"
+  },
+  "keywords": [
+    "scraper",
+    "web-scraper"
+  ],
+  "author": "Andrew Craven",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/acraven77/project_6/issues"
+  },
+  "homepage": "https://github.com/acraven77/project_6#readme",
+  "dependencies": {
+    "json2csv": "^3.7.3",
+    "node-datetime": "^1.0.0",
+    "x-ray": "^2.3.2"
+  }
+}
